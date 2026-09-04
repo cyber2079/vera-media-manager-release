@@ -1,0 +1,115 @@
+﻿[
+    {
+        "scenario":  "S0",
+        "app":  "ambient",
+        "csv":  "scenario_S0_ambient_run1.csv"
+    },
+    {
+        "scenario":  "S1",
+        "app":  "vera",
+        "csv":  "scenario_S1_vera_run1.csv",
+        "run":  1
+    },
+    {
+        "scenario":  "S1",
+        "app":  "vera",
+        "csv":  "scenario_S1_vera_run2.csv",
+        "run":  2
+    },
+    {
+        "scenario":  "S1",
+        "app":  "vera",
+        "csv":  "scenario_S1_vera_run3.csv",
+        "run":  3
+    },
+    {
+        "scenario":  "S1",
+        "app":  "we",
+        "csv":  "scenario_S1_we_run1.csv",
+        "run":  1
+    },
+    {
+        "scenario":  "S1",
+        "app":  "we",
+        "csv":  "scenario_S1_we_run2.csv",
+        "run":  2
+    },
+    {
+        "scenario":  "S1",
+        "app":  "we",
+        "csv":  "scenario_S1_we_run3.csv",
+        "run":  3
+    },
+    {
+        "scenario":  "S2",
+        "app":  "vera",
+        "csv":  "scenario_S2_vera_run1.csv",
+        "run":  1
+    },
+    {
+        "scenario":  "S2",
+        "app":  "vera",
+        "csv":  "scenario_S2_vera_run2.csv",
+        "run":  2
+    },
+    {
+        "scenario":  "S2",
+        "app":  "vera",
+        "csv":  "scenario_S2_vera_run3.csv",
+        "run":  3
+    },
+    {
+        "scenario":  "S2",
+        "app":  "we",
+        "csv":  "scenario_S2_we_run1.csv",
+        "run":  1
+    },
+    {
+        "scenario":  "S2",
+        "app":  "we",
+        "csv":  "scenario_S2_we_run2.csv",
+        "run":  2
+    },
+    {
+        "scenario":  "S2",
+        "app":  "we",
+        "csv":  "scenario_S2_we_run3.csv",
+        "run":  3
+    },
+    {
+        "scenario":  "S3",
+        "app":  "vera",
+        "csv":  "scenario_S3_vera_run1.csv",
+        "run":  1
+    },
+    {
+        "scenario":  "S3",
+        "app":  "vera",
+        "csv":  "scenario_S3_vera_run2.csv",
+        "run":  2
+    },
+    {
+        "scenario":  "S3",
+        "app":  "vera",
+        "csv":  "scenario_S3_vera_run3.csv",
+        "run":  3
+    },
+    {
+        "scenario":  "S3",
+        "app":  "westack",
+        "csv":  "scenario_S3_westack_run1.csv",
+        "run":  1
+    },
+    {
+        "scenario":  "S3",
+        "app":  "westack",
+        "csv":  "scenario_S3_westack_run2.csv",
+        "run":  2
+    },
+    {
+        "scenario":  "S3",
+        "app":  "westack",
+        "csv":  "scenario_S3_westack_run3.csv",
+        "run":  3
+    }
+]

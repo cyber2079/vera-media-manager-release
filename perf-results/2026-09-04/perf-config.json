@@ -1,0 +1,25 @@
+{
+  "vera": {
+    "exe": "C:/Program Files/Vera Media Manager/vera-media-manager.exe",
+    "version": "1.0.0"
+  },
+  "we": {
+    "exe": "E:/SteamLibrary/steamapps/common/wallpaper_engine/wallpaper64.exe",
+    "steamExe": "D:/Steam/steam.exe",
+    "version": "2.8.0.42"
+  },
+  "potplayer": {
+    "exe": "C:/Program Files/DAUM/PotPlayer/PotPlayerMini64.exe"
+  },
+  "media": {
+    "wallpaperVideo": "d:/nova-media-manager/public/videos/car-bg/city-drive-sunset.mp4",
+    "playbackVideo": "d:/nova-media-manager/public/videos/car-bg/the-ride.mp4",
+    "staticImage": "D:/nova-themes-assets/静态壁纸/1920x1080_01.jpg"
+  },
+  "sampling": {
+    "settleSeconds": 15,
+    "durationSeconds": 60,
+    "intervalSeconds": 1,
+    "runs": 3
+  }
+}

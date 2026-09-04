@@ -1,0 +1,99 @@
+﻿{
+    "n":  10,
+    "runs":  [
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  161,
+                     "tSettledMs":  30954,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:17:01"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  191,
+                     "tSettledMs":  31020,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:17:37"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  167,
+                     "tSettledMs":  27882,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:18:10"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  176,
+                     "tSettledMs":  31099,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:18:47"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  153,
+                     "tSettledMs":  31040,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:19:23"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  146,
+                     "tSettledMs":  30916,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:19:59"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  162,
+                     "tSettledMs":  30877,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:20:35"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  153,
+                     "tSettledMs":  30923,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:21:11"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  158,
+                     "tSettledMs":  30993,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:21:47"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "we",
+                     "tVisibleMs":  162,
+                     "tSettledMs":  30948,
+                     "procCountAtSettle":  7,
+                     "startedAt":  "2026-09-05T00:22:24"
+                 }
+             ],
+    "app":  "we",
+    "tVisibleMs":  {
+                       "median":  161.5,
+                       "min":  146,
+                       "mean":  162.9,
+                       "max":  191
+                   },
+    "tSettledMs":  {
+                       "median":  30951,
+                       "min":  27882,
+                       "mean":  30665.2,
+                       "max":  31099
+                   },
+    "mode":  "hot"
+}

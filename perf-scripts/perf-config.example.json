@@ -1,0 +1,25 @@
+{
+  "vera": {
+    "exe": "C:/Program Files/Vera Media Manager/vera-media-manager.exe",
+    "version": "填实际版本,如 1.0.0"
+  },
+  "we": {
+    "exe": "E:/SteamLibrary/steamapps/common/wallpaper_engine/distribution/wallpaper64.exe",
+    "steamExe": "D:/Steam/steam.exe",
+    "version": "如 2.8.0.42"
+  },
+  "potplayer": {
+    "exe": "C:/Program Files/DAUM/PotPlayer/PotPlayerMini64.exe"
+  },
+  "media": {
+    "wallpaperVideo": "两软件共用的视频壁纸文件",
+    "playbackVideo": "S3 播片文件(Vera 内置播放器与 PotPlayer 播同一文件)",
+    "staticImage": "S1 共用静态图"
+  },
+  "sampling": {
+    "settleSeconds": 15,
+    "durationSeconds": 60,
+    "intervalSeconds": 1,
+    "runs": 3
+  }
+}

@@ -1,0 +1,99 @@
+﻿{
+    "n":  10,
+    "runs":  [
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  93,
+                     "tSettledMs":  5451,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:14:59"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  43,
+                     "tSettledMs":  4357,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:15:09"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  44,
+                     "tSettledMs":  4341,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:15:18"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  45,
+                     "tSettledMs":  4310,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:15:28"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  43,
+                     "tSettledMs":  5374,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:15:38"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  42,
+                     "tSettledMs":  3251,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:15:47"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  44,
+                     "tSettledMs":  4312,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:15:56"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  43,
+                     "tSettledMs":  4322,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:16:06"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  46,
+                     "tSettledMs":  3262,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:16:14"
+                 },
+                 {
+                     "sawUi":  true,
+                     "app":  "vera",
+                     "tVisibleMs":  43,
+                     "tSettledMs":  5351,
+                     "procCountAtSettle":  8,
+                     "startedAt":  "2026-09-05T00:16:25"
+                 }
+             ],
+    "app":  "vera",
+    "tVisibleMs":  {
+                       "median":  43.5,
+                       "min":  42,
+                       "mean":  48.6,
+                       "max":  93
+                   },
+    "tSettledMs":  {
+                       "median":  4331.5,
+                       "min":  3251,
+                       "mean":  4433.1,
+                       "max":  5451
+                   },
+    "mode":  "hot"
+}

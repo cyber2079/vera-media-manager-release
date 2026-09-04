@@ -1,0 +1,419 @@
+﻿{
+    "ambient":  {
+                    "ticks":  30,
+                    "sysCpuPct":  10.46,
+                    "availMB":  28407
+                },
+    "runDir":  "d:\\nova-media-manager\\scripts\\perf\\results\\run-20260904-230332",
+    "startup":  [
+
+                ],
+    "env":  {
+                "capturedAt":  "2026-09-04 23:03:33",
+                "scriptVersion":  "1.0.0-20260904",
+                "cpu":  "AMD Ryzen 7 9850X3D 8-Core Processor",
+                "cores":  16,
+                "ramGB":  47.1,
+                "os":  "Microsoft Windows 11 专业工作站版 build 26200",
+                "display":  "2560x1440",
+                "gpuAdapters":  [
+                                    "MuMu Virtual Display Adapter (driver 20.36.41.498)",
+                                    "NVIDIA GeForce RTX 5080 (driver 32.0.16.1047)",
+                                    "Microsoft 基本显示适配器 (driver 10.0.26100.1)"
+                                ],
+                "powerScheme":  "电源方案 GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (高性能)",
+                "veraVersion":  "1.0.0",
+                "weVersion":  "2.8.0.42",
+                "potplayerVersion":  "0, 0, 0, 0",
+                "noted":  [
+                              "steam.exe resident during test",
+                              "Steam++(Watt Toolkit) resident during test"
+                          ]
+            },
+    "scenarios":  [
+                      {
+                          "scenario":  "S1",
+                          "n":  3,
+                          "gpuPct":  {
+                                         "median":  0,
+                                         "min":  0,
+                                         "mean":  0,
+                                         "max":  0
+                                     },
+                          "wsMB":  {
+                                       "median":  515.4,
+                                       "min":  514.9,
+                                       "mean":  518.53,
+                                       "max":  525.3
+                                   },
+                          "app":  "vera",
+                          "cpuPct":  {
+                                         "median":  0,
+                                         "min":  0,
+                                         "mean":  0.02,
+                                         "max":  0.07
+                                     },
+                          "peakPrivMB":  {
+                                             "median":  323.2,
+                                             "min":  322.9,
+                                             "mean":  323.83,
+                                             "max":  325.4
+                                         },
+                          "runs":  [
+                                       {
+                                           "run":  1,
+                                           "cpuPct":  0.07,
+                                           "ticks":  56,
+                                           "gpuPct":  0,
+                                           "peakPrivMB":  325.4,
+                                           "wsMB":  525.3,
+                                           "privMB":  323.9
+                                       },
+                                       {
+                                           "run":  2,
+                                           "cpuPct":  0,
+                                           "ticks":  60,
+                                           "gpuPct":  0,
+                                           "peakPrivMB":  323.2,
+                                           "wsMB":  514.9,
+                                           "privMB":  321.6
+                                       },
+                                       {
+                                           "run":  3,
+                                           "cpuPct":  0,
+                                           "ticks":  60,
+                                           "gpuPct":  0,
+                                           "peakPrivMB":  322.9,
+                                           "wsMB":  515.4,
+                                           "privMB":  321.8
+                                       }
+                                   ],
+                          "privMB":  {
+                                         "median":  321.8,
+                                         "min":  321.6,
+                                         "mean":  322.43,
+                                         "max":  323.9
+                                     }
+                      },
+                      {
+                          "scenario":  "S1",
+                          "n":  3,
+                          "gpuPct":  {
+                                         "median":  0,
+                                         "min":  0,
+                                         "mean":  0,
+                                         "max":  0
+                                     },
+                          "wsMB":  {
+                                       "median":  41.9,
+                                       "min":  41.5,
+                                       "mean":  41.77,
+                                       "max":  41.9
+                                   },
+                          "app":  "we",
+                          "cpuPct":  {
+                                         "median":  0.03,
+                                         "min":  0.02,
+                                         "mean":  0.03,
+                                         "max":  0.04
+                                     },
+                          "peakPrivMB":  {
+                                             "median":  11.9,
+                                             "min":  11.7,
+                                             "mean":  11.83,
+                                             "max":  11.9
+                                         },
+                          "runs":  [
+                                       {
+                                           "run":  1,
+                                           "cpuPct":  0.03,
+                                           "ticks":  60,
+                                           "gpuPct":  0,
+                                           "peakPrivMB":  11.7,
+                                           "wsMB":  41.9,
+                                           "privMB":  11.7
+                                       },
+                                       {
+                                           "run":  2,
+                                           "cpuPct":  0.04,
+                                           "ticks":  60,
+                                           "gpuPct":  0,
+                                           "peakPrivMB":  11.9,
+                                           "wsMB":  41.9,
+                                           "privMB":  11.8
+                                       },
+                                       {
+                                           "run":  3,
+                                           "cpuPct":  0.02,
+                                           "ticks":  60,
+                                           "gpuPct":  0,
+                                           "peakPrivMB":  11.9,
+                                           "wsMB":  41.5,
+                                           "privMB":  11.9
+                                       }
+                                   ],
+                          "privMB":  {
+                                         "median":  11.8,
+                                         "min":  11.7,
+                                         "mean":  11.8,
+                                         "max":  11.9
+                                     }
+                      },
+                      {
+                          "scenario":  "S2",
+                          "n":  3,
+                          "gpuPct":  {
+                                         "median":  2.08,
+                                         "min":  2.03,
+                                         "mean":  2.15,
+                                         "max":  2.33
+                                     },
+                          "wsMB":  {
+                                       "median":  573.3,
+                                       "min":  572.9,
+                                       "mean":  573.33,
+                                       "max":  573.8
+                                   },
+                          "app":  "vera",
+                          "cpuPct":  {
+                                         "median":  0.56,
+                                         "min":  0.5,
+                                         "mean":  0.75,
+                                         "max":  1.18
+                                     },
+                          "peakPrivMB":  {
+                                             "median":  322.5,
+                                             "min":  320.2,
+                                             "mean":  327.53,
+                                             "max":  339.9
+                                         },
+                          "runs":  [
+                                       {
+                                           "run":  1,
+                                           "cpuPct":  1.18,
+                                           "ticks":  60,
+                                           "gpuPct":  2.33,
+                                           "peakPrivMB":  320.2,
+                                           "wsMB":  573.8,
+                                           "privMB":  306.3
+                                       },
+                                       {
+                                           "run":  2,
+                                           "cpuPct":  0.56,
+                                           "ticks":  60,
+                                           "gpuPct":  2.03,
+                                           "peakPrivMB":  322.5,
+                                           "wsMB":  573.3,
+                                           "privMB":  307.1
+                                       },
+                                       {
+                                           "run":  3,
+                                           "cpuPct":  0.5,
+                                           "ticks":  60,
+                                           "gpuPct":  2.08,
+                                           "peakPrivMB":  339.9,
+                                           "wsMB":  572.9,
+                                           "privMB":  308.5
+                                       }
+                                   ],
+                          "privMB":  {
+                                         "median":  307.1,
+                                         "min":  306.3,
+                                         "mean":  307.3,
+                                         "max":  308.5
+                                     }
+                      },
+                      {
+                          "scenario":  "S2",
+                          "n":  3,
+                          "gpuPct":  {
+                                         "median":  3.02,
+                                         "min":  2.93,
+                                         "mean":  3,
+                                         "max":  3.05
+                                     },
+                          "wsMB":  {
+                                       "median":  141,
+                                       "min":  134.2,
+                                       "mean":  138.73,
+                                       "max":  141
+                                   },
+                          "app":  "we",
+                          "cpuPct":  {
+                                         "median":  0.37,
+                                         "min":  0.31,
+                                         "mean":  0.36,
+                                         "max":  0.4
+                                     },
+                          "peakPrivMB":  {
+                                             "median":  187.1,
+                                             "min":  186.6,
+                                             "mean":  186.93,
+                                             "max":  187.1
+                                         },
+                          "runs":  [
+                                       {
+                                           "run":  1,
+                                           "cpuPct":  0.31,
+                                           "ticks":  56,
+                                           "gpuPct":  2.93,
+                                           "peakPrivMB":  186.6,
+                                           "wsMB":  134.2,
+                                           "privMB":  179.3
+                                       },
+                                       {
+                                           "run":  2,
+                                           "cpuPct":  0.4,
+                                           "ticks":  60,
+                                           "gpuPct":  3.05,
+                                           "peakPrivMB":  187.1,
+                                           "wsMB":  141,
+                                           "privMB":  185.9
+                                       },
+                                       {
+                                           "run":  3,
+                                           "cpuPct":  0.37,
+                                           "ticks":  60,
+                                           "gpuPct":  3.02,
+                                           "peakPrivMB":  187.1,
+                                           "wsMB":  141,
+                                           "privMB":  185.9
+                                       }
+                                   ],
+                          "privMB":  {
+                                         "median":  185.9,
+                                         "min":  179.3,
+                                         "mean":  183.7,
+                                         "max":  185.9
+                                     }
+                      },
+                      {
+                          "scenario":  "S3",
+                          "n":  3,
+                          "gpuPct":  {
+                                         "median":  2.42,
+                                         "min":  2.42,
+                                         "mean":  2.48,
+                                         "max":  2.6
+                                     },
+                          "wsMB":  {
+                                       "median":  511,
+                                       "min":  510.8,
+                                       "mean":  512.73,
+                                       "max":  516.4
+                                   },
+                          "app":  "vera",
+                          "cpuPct":  {
+                                         "median":  0.43,
+                                         "min":  0.43,
+                                         "mean":  0.44,
+                                         "max":  0.46
+                                     },
+                          "peakPrivMB":  {
+                                             "median":  289.6,
+                                             "min":  287.4,
+                                             "mean":  290.47,
+                                             "max":  294.4
+                                         },
+                          "runs":  [
+                                       {
+                                           "run":  1,
+                                           "cpuPct":  0.43,
+                                           "ticks":  60,
+                                           "gpuPct":  2.42,
+                                           "peakPrivMB":  294.4,
+                                           "wsMB":  516.4,
+                                           "privMB":  282
+                                       },
+                                       {
+                                           "run":  2,
+                                           "cpuPct":  0.46,
+                                           "ticks":  60,
+                                           "gpuPct":  2.6,
+                                           "peakPrivMB":  287.4,
+                                           "wsMB":  510.8,
+                                           "privMB":  276.2
+                                       },
+                                       {
+                                           "run":  3,
+                                           "cpuPct":  0.43,
+                                           "ticks":  60,
+                                           "gpuPct":  2.42,
+                                           "peakPrivMB":  289.6,
+                                           "wsMB":  511,
+                                           "privMB":  276
+                                       }
+                                   ],
+                          "privMB":  {
+                                         "median":  276.2,
+                                         "min":  276,
+                                         "mean":  278.07,
+                                         "max":  282
+                                     }
+                      },
+                      {
+                          "scenario":  "S3",
+                          "n":  3,
+                          "gpuPct":  {
+                                         "median":  2.98,
+                                         "min":  2.97,
+                                         "mean":  2.98,
+                                         "max":  3
+                                     },
+                          "wsMB":  {
+                                       "median":  224.8,
+                                       "min":  222.1,
+                                       "mean":  224.23,
+                                       "max":  225.8
+                                   },
+                          "app":  "westack",
+                          "cpuPct":  {
+                                         "median":  0.53,
+                                         "min":  0.39,
+                                         "mean":  0.5,
+                                         "max":  0.58
+                                     },
+                          "peakPrivMB":  {
+                                             "median":  402.9,
+                                             "min":  401.8,
+                                             "mean":  402.77,
+                                             "max":  403.6
+                                         },
+                          "runs":  [
+                                       {
+                                           "run":  1,
+                                           "cpuPct":  0.53,
+                                           "ticks":  56,
+                                           "gpuPct":  3,
+                                           "peakPrivMB":  402.9,
+                                           "wsMB":  224.8,
+                                           "privMB":  383.1
+                                       },
+                                       {
+                                           "run":  2,
+                                           "cpuPct":  0.39,
+                                           "ticks":  60,
+                                           "gpuPct":  2.97,
+                                           "peakPrivMB":  401.8,
+                                           "wsMB":  225.8,
+                                           "privMB":  387.3
+                                       },
+                                       {
+                                           "run":  3,
+                                           "cpuPct":  0.58,
+                                           "ticks":  60,
+                                           "gpuPct":  2.98,
+                                           "peakPrivMB":  403.6,
+                                           "wsMB":  222.1,
+                                           "privMB":  387.4
+                                       }
+                                   ],
+                          "privMB":  {
+                                         "median":  387.3,
+                                         "min":  383.1,
+                                         "mean":  385.93,
+                                         "max":  387.4
+                                     }
+                      }
+                  ]
+}

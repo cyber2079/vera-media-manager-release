@@ -4,7 +4,7 @@
 
 Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件管理一站式接管，配上会讲故事的沉浸式主题系统，把桌面变成你的个人娱乐主机。
 
-[官网](https://scm-think.cn) · [使用文档](https://scm-think.cn/docs) · [下载最新版](#下载) · [Bilibili](https://space.bilibili.com/106858508) · [爱发电](https://ifdian.net/a/cyber2079)
+[官网](https://scm-think.cn) · [使用文档](https://scm-think.cn/docs) · [性能实测](https://scm-think.cn/perf) · [下载最新版](#下载) · [Bilibili](https://space.bilibili.com/106858508) · [爱发电](https://ifdian.net/a/cyber2079)
 
 **关注 B 站即可获得永久免费使用权** · 未关注用户享 14 天全功能试用
 
@@ -31,6 +31,12 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 | <img src="https://cdn.jsdelivr.net/gh/cyber2079/vera-media-manager-release@main/docs-img/docs-shot-14.webp" width="420" alt="3D 场景壁纸与陪伴栏里的小薇"> | <img src="https://cdn.jsdelivr.net/gh/cyber2079/vera-media-manager-release@main/docs-img/docs-shot-15a.webp" width="420" alt="设置 → 主题：已安装主题列表"> |
 
 媒体文件始终保存在你自己的电脑上：本地管理，不转存、不上传。
+
+## 性能实测(与 Wallpaper Engine 对比)
+
+同机实测:动态壁纸 + 视频播放的合并负载下,Vera 单应用私有内存 **276 MB**,对比 Wallpaper Engine + PotPlayer 双应用合计 **387 MB**(省 29%);热启动窗口出现 **43.5 ms**(对比 161.5 ms)。单项场景 WE 更省、真实合并场景 Vera 反超——完整数据与方法论见 **[官网实测报告](https://scm-think.cn/perf)**;开源测量脚本在本仓库 [perf-scripts/](perf-scripts/),原始逐秒数据在 [perf-results/](perf-results/)。
+
+
 
 ## 功能概览
 
