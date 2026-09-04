@@ -8,7 +8,7 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 
 **关注 B 站即可获得永久免费使用权** · 未关注用户享 14 天全功能试用
 
-![主界面全景：经典双栏 Shell](docs-img/docs-shot-02.webp)
+<img src="docs-img/docs-shot-02.webp" width="840" alt="主界面全景：经典双栏 Shell">
 
 </div>
 
@@ -25,10 +25,10 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 
 | | |
 |---|---|
-| ![视频库卡片：封面、进度与「已看」角标](docs-img/docs-shot-03.webp) | ![播放中的竖向水墨歌词](docs-img/docs-shot-05.webp) |
-| ![车载大屏播放器皮肤：仪表盘即播放器](docs-img/docs-shot-06.webp) | ![游戏库：封面卡片与工具栏](docs-img/docs-shot-08.webp) |
-| ![快捷中心：常用文件夹、系统工具与电源](docs-img/docs-shot-10.webp) | ![小组件同屏：时钟、天气、系统监控等](docs-img/docs-shot-12.webp) |
-| ![3D 场景壁纸与陪伴栏里的小薇](docs-img/docs-shot-14.webp) | ![设置 → 主题：已安装主题列表](docs-img/docs-shot-15a.webp) |
+| <img src="docs-img/docs-shot-03.webp" width="420" alt="视频库卡片：封面、进度与「已看」角标"> | <img src="docs-img/docs-shot-05.webp" width="420" alt="播放中的竖向水墨歌词"> |
+| <img src="docs-img/docs-shot-06.webp" width="420" alt="车载大屏播放器皮肤：仪表盘即播放器"> | <img src="docs-img/docs-shot-08.webp" width="420" alt="游戏库：封面卡片与工具栏"> |
+| <img src="docs-img/docs-shot-10.webp" width="420" alt="快捷中心：常用文件夹、系统工具与电源"> | <img src="docs-img/docs-shot-12.webp" width="420" alt="小组件同屏：时钟、天气、系统监控等"> |
+| <img src="docs-img/docs-shot-14.webp" width="420" alt="3D 场景壁纸与陪伴栏里的小薇"> | <img src="docs-img/docs-shot-15a.webp" width="420" alt="设置 → 主题：已安装主题列表"> |
 
 媒体文件始终保存在你自己的电脑上：本地管理，不转存、不上传。
 
