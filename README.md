@@ -68,7 +68,7 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 | **MSI** (`*.msi`) | `*.msi` | Windows 标准安装包，支持静默安装与企业批量部署 | 命令行用户 / IT 管理 |
 
 - 普通用户：下载 NSIS `.exe`，双击按向导安装
-- 静默部署：`msiexec /i Vera.Media.Manager_1.0.0_x64_en-US.msi /qn`
+- 静默部署：`msiexec /i Vera.Media.Manager_1.0.1_x64_en-US.msi /qn`
 
 **系统要求**：Windows 10 及以上，64 位。
 
