@@ -60,15 +60,14 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 
 ## 下载
 
-安装包托管在本仓库 [Releases](https://github.com/cyber2079/vera-media-manager-release/releases)，提供两种安装格式：
+直接点击即可下载（无需展开 Releases 页的 Assets）：
 
-| 格式 | 文件 | 说明 | 适合谁 |
-|------|------|------|--------|
-| **NSIS** (`*.exe`) | `*-setup.exe` | 安装向导式，体积更小，可选安装目录 | 普通用户(推荐) |
-| **MSI** (`*.msi`) | `*.msi` | Windows 标准安装包，支持静默安装与企业批量部署 | 命令行用户 / IT 管理 |
+| 格式 | 文件 | 说明 |
+|------|------|------|
+| **NSIS** | [Vera.Media.Manager_1.0.1_x64-setup.exe](https://github.com/cyber2079/vera-media-manager-release/releases/download/v1.0.1/Vera.Media.Manager_1.0.1_x64-setup.exe) | 推荐 · 安装向导式 |
+| **MSI** | [Vera.Media.Manager_1.0.1_x64_en-US.msi](https://github.com/cyber2079/vera-media-manager-release/releases/download/v1.0.1/Vera.Media.Manager_1.0.1_x64_en-US.msi) | 标准包 · 支持 `msiexec /i ... /qn` 静默部署 |
 
-- 普通用户：下载 NSIS `.exe`，双击按向导安装
-- 静默部署：`msiexec /i Vera.Media.Manager_1.0.1_x64_en-US.msi /qn`
+历史版本见 [Releases](https://github.com/cyber2079/vera-media-manager-release/releases)。
 
 **系统要求**：Windows 10 及以上，64 位。
 
