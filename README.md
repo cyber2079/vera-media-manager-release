@@ -6,7 +6,7 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 
 [官网](https://scm-think.cn) · [使用文档](https://scm-think.cn/docs) · [性能实测](https://scm-think.cn/perf) · [下载最新版](#下载) · [Bilibili](https://space.bilibili.com/106858508) · [爱发电](https://ifdian.net/a/cyber2079)
 
-**关注 B 站即可获得永久免费使用权** · 未关注用户享 14 天全功能试用
+**关注B站即可获得B站专属免费使用权** · 未关注用户享 14 天全功能试用
 
 <img src="https://cdn.jsdelivr.net/gh/cyber2079/vera-media-manager-release@main/docs-img/docs-shot-02.webp" width="840" alt="主界面全景：经典双栏 Shell">
 
