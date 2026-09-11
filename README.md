@@ -75,7 +75,7 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 
 ## 视频介绍与支持
 
-- 演示与介绍视频：[Bilibili 主页](https://space.bilibili.com/106858508)（关注 = 永久免费使用权）
+- 演示与介绍视频：[Bilibili 主页](https://space.bilibili.com/106858508)（关注前1000名粉丝 B站专属会员永久使用权）
 - 支持开发者：[爱发电](https://ifdian.net/a/cyber2079)
 - 问题与建议：[官网关于页](https://scm-think.cn/about)留言，或应用内「设置 → 反馈与建议」
 
