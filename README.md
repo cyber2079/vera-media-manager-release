@@ -64,8 +64,8 @@ Windows 桌面娱乐中心——电影 · 音乐 · 图片 · 游戏 · 文件�
 
 | 格式 | 文件 | 说明 |
 |------|------|------|
-| **NSIS** | [Vera.Media.Manager_1.1.0_x64-setup.exe](https://github.com/cyber2079/vera-media-manager-release/releases/download/v1.1.0/Vera.Media.Manager_1.1.0_x64-setup.exe) | 推荐 · 安装向导式 |
-| **MSI** | [Vera.Media.Manager_1.1.0_x64.msi](https://github.com/cyber2079/vera-media-manager-release/releases/download/v1.1.0/Vera.Media.Manager_1.1.0_x64.msi) | 标准包 · 支持 `msiexec /i ... /qn` 静默部署 |
+| **NSIS** | [Vera.Media.Manager_1.1.1_x64-setup.exe](https://github.com/cyber2079/vera-media-manager-release/releases/download/v1.1.1/Vera.Media.Manager_1.1.1_x64-setup.exe) | 推荐 · 安装向导式 |
+| **MSI** | [Vera.Media.Manager_1.1.1_x64.msi](https://github.com/cyber2079/vera-media-manager-release/releases/download/v1.1.1/Vera.Media.Manager_1.1.1_x64.msi) | 标准包 · 支持 `msiexec /i ... /qn` 静默部署 |
 
 历史版本见 [Releases](https://github.com/cyber2079/vera-media-manager-release/releases)。
 
